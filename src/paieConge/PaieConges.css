@@ -1,0 +1,57 @@
+.paieccontainer{
+	width: 800px;
+    height: 700px;
+    background-color: #C4C4C4;
+	border: 1px solid #761616;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+	border-radius: 15px;
+}
+
+.congleft{
+    display: grid;
+    float: right;
+	margin-top: 2.32em;
+    margin-right: 2em;
+}
+
+.congright{
+	display: grid;
+    float: left;
+    margin-top: 1.3em;
+    margin-left: 1.5em;
+}
+
+.leftrightcont label{
+	width: 150px;
+	display: inline-block;
+	font-weight: bold;
+}
+
+.top label{
+	width: 130px;
+	display: inline-block;
+	font-weight: bold;
+}
+
+.top{
+    margin-left: 27px;
+    margin-top: 20px;
+}
+
+.top input{
+	border-radius: 5px;
+    width: 230px;
+    height: 35px;
+	font-size: 16px;
+	background-color: white;
+}
+
+.leftrightcont input{
+	border-radius: 5px;
+    width: 300px;
+    height: 35px;
+	font-size: 16px;
+	background-color: white;
+}

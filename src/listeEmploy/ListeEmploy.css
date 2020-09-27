@@ -1,0 +1,17 @@
+.liste {
+    width: 800px;
+    background-color: #C4C4C4;
+    border: 1px solid #761616;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+tr, th, td {
+  border: 1px solid black;
+  padding: 10px;
+}

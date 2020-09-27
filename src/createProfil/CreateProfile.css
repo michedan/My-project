@@ -1,0 +1,76 @@
+.proficontainer{
+	width: 700px;
+    height: 600px;
+    background-color: #C4C4C4;
+	border: 1px solid #761616;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+	border-radius: 15px;
+}
+
+.proficontainer label{
+	width: 130px;
+	display: inline-block;
+	font-weight: bold;
+}
+
+.proficontainer input{
+	border-radius: 5px;
+    width: 300px;
+    height: 35px;
+	font-size: 16px;
+	background-color: white;
+}
+
+.proficontainer select{
+	border-radius: 5px;
+    width: 303px;
+    height: 42px;
+	font-size: 16px;
+	background-color: white;
+}
+
+.proficontainer p{
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.list1{
+    background-color: white;
+    border: 1px solid #761616;
+    width: 250px;
+    height: 200px;
+    margin-left: 40px;
+}
+
+.list2{
+    background-color: white;
+    border: 1px solid #761616;
+    width: 250px;
+    height: 200px;
+    float: right;
+    margin-top: -204px;
+    margin-right: 40px;
+}
+
+.proficontainer input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 120px;
+    background: #761616;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+.applybtn{
+    margin-top: 10px;
+    margin-left: 540px;
+}
+
+.topprofil{
+    margin-left: 40px;
+    margin-top: 22px;
+}
